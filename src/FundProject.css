@@ -1,0 +1,81 @@
+
+.amnt{
+    color: rgb(54, 82, 206);
+    font-size: 12px;
+    margin-top: 5px;
+}
+p {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.number{
+    border: none;
+    width: 20%;
+    border-bottom: 2px solid blue;
+    margin-right: 15px;
+}
+#btnx{
+    width: 100px;
+    padding:2px;
+    margin-bottom: 10px;
+}
+#card{
+    border-color: lightgray;
+    border-radius: 5px;
+    box-shadow: 5px 5px 3px 3px  rgb(40, 57, 133);
+    padding:0px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+.progressbar{
+    border-radius: 3px;
+    border:1px solid rgb(199, 198, 198);
+    height: 15px;
+    margin-top: 5px;
+}
+
+#cardtitle {
+    margin-bottom: -5px;
+    font-size: 30px;
+    font-weight: 600;
+    font-family: 'Arial Narrow Bold', sans-serif;
+}
+
+#headingg {
+    margin-left: 40px; 
+    margin-bottom: 20px;
+}
+
+.card-text2 {
+    font-size: 14px;
+    margin-left: 3px;
+    margin-bottom: 5px;
+}
+
+.btn-status-ong, .btn-status-cmp, .btn-status-exp {
+    color: white;
+    padding: 4px 6px;
+    float: right;
+    font-size: 15px;
+    border: none;
+}
+
+.btn-status-ong {
+    background-color: blue;
+}
+
+.btn-status-cmp {
+    background-color: green;
+}
+
+.btn-status-exp {
+    background-color: gray;
+}
+
+.small-text {
+    font-size: 12px;
+}
+
+ul li {
+  list-style: none;
+}
